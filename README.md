@@ -1,5 +1,5 @@
 # About Me:
-BS Artificial Intelligence @ FAST NUCES (2023-2027)<br> Building full-stack AI applications and RAG pipelines<br> Currently exploring LLMs and agentic systems<br>📍 Rawalpindi, Pakistan
+BS Artificial Intelligence @ FAST NUCES (2023-2027)<br> Building full-stack AI applications and RAG pipelines<br> Currently exploring LLMs and agentic systems<br>📍 Islamabad, Pakistan
 
 
 ## 🌐 Socials:
